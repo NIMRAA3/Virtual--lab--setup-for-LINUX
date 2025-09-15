@@ -30,4 +30,4 @@ This lab allows users to prepare a host computer for virtualization, install Vir
 
 ## Lab Steps
 *…(rest of lab steps as before)…*
-[click here to download file for read detail step](
+[click here to download file for read detail step](https://github.com/NIMRAA3/Virtual--lab--setup-for-LINUX/blob/main/Setting%20a%20virtual%20lab%20for%20LINUX.docx)
